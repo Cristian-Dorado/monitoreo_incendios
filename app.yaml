@@ -1,0 +1,4 @@
+runtime: python39
+entrypoint: gunicorn -b :$PORT main:server
+env_variables:
+  DASH_DEBUG_MODE: "True"
