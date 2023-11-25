@@ -79,6 +79,7 @@ data_frame_dat = None
 app = Dash(__name__,
            external_stylesheets=[dbc.themes.SUPERHERO],
            title="Monitoreo de Incendios")
+server = app.server
 
 #Implementacion del menu desplegable
 dropdown_menu = dbc.DropdownMenu(
