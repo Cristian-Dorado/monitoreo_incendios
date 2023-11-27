@@ -15,7 +15,7 @@ El objetivo principal es proporcionar a la sociedad una herramienta accesible y 
 ## Características Principales
 
 - **Datos en Tiempo Real:** Extrae Datos de una API de la NASA para acceder a informacion actualizada casi en tiempo real (NRT).
-- **Filtrado Personalizado:** Permite al usuario seleccionar la región de interés, proporcionando datos específicos sobre incendios/Anomalías térmicas en Bolivia o en toda América del Sur.
+- **Filtrado Personalizado:** Permite al usuario seleccionar la región de interés, proporcionando datos específicos sobre incendios/Anomalías térmicas en Bolivia y/o en toda América del Sur.
 - **Dashboard Dinámico:** Desarrollado en Python utilizando Dash para crear la aplicación Web interactiva.
 
 
