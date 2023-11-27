@@ -16,6 +16,7 @@ El objetivo principal es proporcionar a la sociedad una herramienta accesible y 
 
 - **Datos en Tiempo Real:** Extrae Datos de una API de la NASA para acceder a informacion actualizada casi en tiempo real (NRT).
 - **Filtrado Personalizado:** Permite al usuario seleccionar la región de interés, proporcionando datos específicos sobre incendios/Anomalías térmicas en Bolivia y/o en toda América del Sur.
+- **Histórico:** Proporciona información de los ultimos 7 dias.
 - **Dashboard Dinámico:** Desarrollado en Python utilizando Dash para crear la aplicación Web interactiva.
 
 
