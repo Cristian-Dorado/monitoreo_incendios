@@ -42,5 +42,5 @@ El objetivo principal es proporcionar a la sociedad una herramienta accesible y 
 
 ## Enlaces Importantes
 
-- **Aplicación Web:** [Monitoreo de Incendios](https://monitoreo-de-incendios.onrender.com/)
+- **Aplicación Web:** [Monitoreo de Incendios](https://monitoreo-de-incendios.onrender.com)
 - **Repositorio GitHub:** [Monitoreo de Incendios](https://github.com/Cristian-Dorado/monitoreo_incendios)
