@@ -1,9 +1,8 @@
 # Monitoreo de Incendios - Dashboard
 Monitoreo de Incendios y Alerta Temprana
 
-https://monitoreo-de-incendios.onrender.com/
 ![cap_america_sat](https://github.com/Cristian-Dorado/monitoreo_incendios/assets/113219668/0471537f-9aa7-4fd9-9d8b-f9dfa5ce6ccd)
-
+https://monitoreo-de-incendios.onrender.com/
 
 ## Descripción
 
@@ -15,9 +14,10 @@ El objetivo principal es proporcionar a la sociedad una herramienta accesible y 
 
 ## Características Principales
 
-- **Dashboard Dinámico:** Desarrollado en Python utilizando la librería Plotly Dash.
-- **Filtrado Personalizado:** Permite al usuario seleccionar la región de interés, proporcionando datos específicos sobre incendios en Bolivia o en toda América del Sur.
-- **Datos en Tiempo Real:** Utiliza la API de la NASA para acceder a datos actualizados casi en tiempo real.
+- **Datos en Tiempo Real:** Extrae Datos de una API de la NASA para acceder a informacion actualizada casi en tiempo real (NRT).
+- **Filtrado Personalizado:** Permite al usuario seleccionar la región de interés, proporcionando datos específicos sobre incendios/Anomalías térmicas en Bolivia o en toda América del Sur.
+- **Dashboard Dinámico:** Desarrollado en Python utilizando Dash para crear la aplicación Web interactiva.
+
 
 ## Uso
 
@@ -42,4 +42,5 @@ El objetivo principal es proporcionar a la sociedad una herramienta accesible y 
 
 ## Enlaces Importantes
 
+- **Aplicación Web:** [Monitoreo de Incendios](https://monitoreo-de-incendios.onrender.com/)
 - **Repositorio GitHub:** [Monitoreo de Incendios](https://github.com/Cristian-Dorado/monitoreo_incendios)
