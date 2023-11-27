@@ -98,7 +98,7 @@ dropdown_menu = dbc.DropdownMenu(
                     "Origen de Data", href="https://firms.modaps.eosdis.nasa.gov/api/area/csv/b6ffa785ddbf642d8d1dc54fe8fbb815/MODIS_NRT/-85,-57,-32,14/7"
                 ),
                 dbc.DropdownMenuItem(
-                    "GitHub", href="https://github.com/Cristian-Dorado"
+                    "GitHub", href="https://github.com/Cristian-Dorado/monitoreo_incendios"
                 ),
                 dbc.DropdownMenuItem(
                     "Contáctanos",
